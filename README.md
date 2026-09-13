@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0006-zigzag-conversion) |
 ## Dynamic Programming
 |  |
 | ------- |
