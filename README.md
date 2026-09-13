@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
