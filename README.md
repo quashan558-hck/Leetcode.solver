@@ -30,6 +30,7 @@
 | [0001-two-sum](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0015-3sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/quashan558-hck/Leetcode.solver/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0007-reverse-integer](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/quashan558-hck/Leetcode.solver/tree/master/0012-integer-to-roman) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/quashan558-hck/Leetcode.solver/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
